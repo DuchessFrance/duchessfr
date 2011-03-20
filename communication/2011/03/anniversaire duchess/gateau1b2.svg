@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="232.52023"
+   height="246.46631"
+   id="svg3614">
+  <defs
+     id="defs3616">
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3781">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(253,112,174)"
+         result="result4"
+         id="feFlood3783" />
+      <feGaussianBlur
+         stdDeviation="15"
+         in="SourceAlpha"
+         result="result1"
+         id="feGaussianBlur3785" />
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="0"
+         k2="4"
+         k3="0"
+         k4="-2"
+         in="result1"
+         result="result3"
+         id="feComposite3787" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 -3"
+         result="result2"
+         id="feColorMatrix3789" />
+      <feComposite
+         in2="result2"
+         operator="in"
+         in="result4"
+         result="fbSourceGraphic"
+         id="feComposite3791" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         in="fbSourceGraphic"
+         result="result5"
+         id="feBlend3793" />
+    </filter>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3795">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(253,112,174)"
+         result="result4"
+         id="feFlood3797" />
+      <feGaussianBlur
+         stdDeviation="15"
+         in="SourceAlpha"
+         result="result1"
+         id="feGaussianBlur3799" />
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="0"
+         k2="4"
+         k3="0"
+         k4="-2"
+         in="result1"
+         result="result3"
+         id="feComposite3801" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 -3"
+         result="result2"
+         id="feColorMatrix3803" />
+      <feComposite
+         in2="result2"
+         operator="in"
+         in="result4"
+         result="fbSourceGraphic"
+         id="feComposite3805" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         in="fbSourceGraphic"
+         result="result5"
+         id="feBlend3807" />
+    </filter>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter3795-1">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(253,112,174)"
+         result="result4"
+         id="feFlood3797-5" />
+      <feGaussianBlur
+         stdDeviation="15"
+         in="SourceAlpha"
+         result="result1"
+         id="feGaussianBlur3799-2" />
+      <feComposite
+         in2="result4"
+         operator="arithmetic"
+         k1="0"
+         k2="4"
+         k3="0"
+         k4="-2"
+         in="result1"
+         result="result3"
+         id="feComposite3801-7" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 -3"
+         result="result2"
+         id="feColorMatrix3803-6" />
+      <feComposite
+         in2="result2"
+         operator="in"
+         in="result4"
+         result="fbSourceGraphic"
+         id="feComposite3805-1" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         in="fbSourceGraphic"
+         result="result5"
+         id="feBlend3807-4" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3619">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-315.68992,-249.78367)"
+     id="layer1">
+    <rect
+       width="219.64334"
+       height="57.087723"
+       x="321.19696"
+       y="419.97583"
+       id="rect3841"
+       style="fill:#ff6600" />
+    <path
+       d="m 436.13071,422.91528 a 46.372715,6.5061421 0 1 1 -92.74543,0 46.372715,6.5061421 0 1 1 92.74543,0 z"
+       transform="matrix(2.5070803,0,0,3,-545.20455,-792.01429)"
+       id="path3682"
+       style="fill:#ff80e5" />
+    <path
+       d="m 436.13071,422.91528 a 46.372715,6.5061421 0 1 1 -92.74543,0 46.372715,6.5061421 0 1 1 92.74543,0 z"
+       transform="matrix(2.5070803,0,0,3,-545.20455,-805.84314)"
+       id="path3682-2-4"
+       style="fill:#ff6600" />
+    <path
+       d="m 436.13071,422.91528 a 46.372715,6.5061421 0 1 1 -92.74543,0 46.372715,6.5061421 0 1 1 92.74543,0 z"
+       transform="matrix(2.5070803,0,0,3,-545.20455,-831.672)"
+       id="path3682-2"
+       style="fill:#ff80e5" />
+    <path
+       d="m 436.13071,422.91528 a 46.372715,6.5061421 0 1 1 -92.74543,0 46.372715,6.5061421 0 1 1 92.74543,0 z"
+       transform="matrix(2.5070803,0,0,3,-545.20455,-845.50086)"
+       id="path3682-2-4-51"
+       style="fill:#ff7f2a" />
+    <path
+       d="m 404.90625,373.45621 a 32.700592,3.8156321 0 1 1 -0.48836,-0.65697"
+       transform="matrix(2.823981,0,0,3,-620.26713,-700.09932)"
+       id="path3829"
+       style="fill:#ffccaa" />
+    <g
+       transform="matrix(3,0,0,3,-887.25977,-744.23164)"
+       id="g3835-2"
+       style="fill:#00d4aa">
+      <rect
+         width="8.2179499"
+         height="29.20426"
+         x="435.75574"
+         y="357.02228"
+         id="rect3745-3"
+         style="fill:#00d4aa" />
+      <path
+         d="m 273.91028,395.2782 a 5.2095928,2.2013261 0 1 1 -10.41919,0 5.2095928,2.2013261 0 1 1 10.41919,0 z"
+         transform="translate(171.21295,-38.694424)"
+         id="path3747-2"
+         style="fill:#00d4aa" />
+      <path
+         d="m 273.91028,395.2782 a 5.2095928,2.2013261 0 1 1 -10.41919,0 5.2095928,2.2013261 0 1 1 10.41919,0 z"
+         transform="translate(171.16403,-8.866609)"
+         id="path3747-7-2"
+         style="fill:#00d4aa" />
+      <path
+         d="m 438.34538,385.94449 c -1.17297,0.13056 -2.34863,0.25512 -3.53125,0.21875 -0.91214,0.48195 -1.95863,0.30208 -2.93097,0.58835 -0.8741,0.15965 -1.74301,0.68168 -2.28778,1.28665 -0.2495,0.8398 0.45761,1.43012 1.28125,1.34375 0.92239,0.39595 1.25869,0.84622 2.38748,0.5625 0.89429,-0.13691 1.48246,0.7338 2.36001,0.7875 1.09736,0.11577 2.24343,-0.59703 3.28376,0.0562 0.87715,0.25926 1.53771,-0.0853 2.42889,-0.10016 0.90494,-0.27077 1.81029,-0.30634 2.6597,0.0819 0.87534,0.0541 1.68636,-0.57609 2.53641,-0.41927 0.97502,0.38308 1.63955,-1.04422 2.60348,-0.95161 0.84543,-0.18489 1.51193,-1.1594 0.63687,-1.77139 -0.61207,-0.71392 -1.80308,-0.30197 -2.37261,-0.92125 -0.7556,-0.56372 -1.91431,-0.42333 -2.84601,-0.82496 -0.9187,-0.0325 -1.87369,-0.0259 -2.70923,0.34421 -0.91593,-0.43853 -2.02311,-0.33488 -3.04886,-0.35066 -0.15038,0.0231 -0.30076,0.0463 -0.45114,0.0694 z"
+         id="path3767-1"
+         style="fill:#00d4aa;filter:url(#filter3795-1)" />
+    </g>
+    <path
+       d="m 466.39872,250.99048 c 1.0341,-0.40233 2.06838,-0.80475 3.1026,-1.20681 -0.84939,12.64992 -5.49501,24.58167 -9.69972,36.41265 -2.8938,8.93865 -6.97626,17.60094 -13.15701,24.74892 -4.69773,6.2874 -14.60037,6.80475 -20.45874,1.90236 -5.16231,-5.19939 -5.18919,-13.48203 -3.15033,-20.08932 3.32523,-8.34582 7.1535,-16.8951 13.70814,-23.24277 9.2643,-7.05627 18.79242,-14.10978 29.65506,-18.52503 z"
+       id="path3822-6"
+       style="fill:#fff300" />
+  </g>
+</svg>
