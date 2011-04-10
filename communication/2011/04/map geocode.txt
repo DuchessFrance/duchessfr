@@ -1,0 +1,4 @@
+Le Louvre,,Paris,Paris,IdF,,France (TouristStructure):48.860175535082817,2.3403433710336685,H5THR R490R:Le Louvre, Paris, France;
+
+long 2.34034337103367
+lat 48.8601755350828
