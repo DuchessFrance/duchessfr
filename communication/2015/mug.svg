@@ -14,7 +14,7 @@
    id="svg2462"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mug.svg"
+   sodipodi:docname="mug.eps"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/eric/Bureau/mug.png"
    inkscape:export-xdpi="82.012169"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,10 +67,10 @@
      showgrid="false"
      inkscape:zoom="1.4142136"
      inkscape:cx="374.39909"
-     inkscape:cy="147.12982"
+     inkscape:cy="140.41231"
      inkscape:window-x="0"
      inkscape:window-y="22"
-     inkscape:current-layer="svg2462"
+     inkscape:current-layer="g3246"
      inkscape:snap-global="false"
      inkscape:window-maximized="1"
      units="mm"
@@ -143,20 +143,25 @@
     <text
        xml:space="preserve"
        style="font-size:59.25046921px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#bb0000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="404.0751"
+       x="493.71201"
        y="678.62695"
        id="text3006"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3008"
-         x="404.0751"
+         x="493.71201"
          y="678.62695"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">I'm a developer</tspan><tspan
          sodipodi:role="line"
-         x="404.0751"
+         x="493.71201"
          y="752.69006"
          id="tspan3010"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">and it's a true story</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">and</tspan><tspan
+         sodipodi:role="line"
+         x="493.71201"
+         y="826.75311"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan3005">It's a true story</tspan></text>
   </g>
   <text
      sodipodi:linespacing="125%"
