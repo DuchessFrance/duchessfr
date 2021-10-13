@@ -5,12 +5,12 @@ Ce code de conduite est ajouté à https://github.com/DuchessFrance/duchessfr/bl
 ## Pour les personnes qui postent une annonce 
 
 * Privilégiez un seul message ou un fil de discussion, ça rend le channel plus lisible et ça permet aussi aux personnes potentiellement interessées de poser des questions et démarrer une discussion.
-* Les annonces doivent être rédigée de préférence neutre en genre, les annonce au féminin sont les bienvenues
+* Les annonces doivent être rédigées de préférence neutre en genre, les annonces au féminin sont les bienvenues
 * Merci de préciser dès le premier message:
     * L'entreprise
     * La localisation du poste
     * La possibilité et les modalités de télétravail
-    * La possibilités et les modalités de temps partiel
+    * La possibilité et les modalités de temps partiel
     * La flexibilité des horaires
 
 
