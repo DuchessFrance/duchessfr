@@ -2,6 +2,8 @@
 
 Ce code de conduite est ajouté à https://github.com/DuchessFrance/duchessfr/blob/master/code-of-conduct/coc-slack-general.md
 
+Sentez vous libre de faire référence à ce code de conduite en toute courtoisie.
+
 ## Pour les personnes qui postent une annonce 
 
 * Privilégiez un seul message ou un fil de discussion, cela rend le channel plus lisible et ça permet aussi aux personnes potentiellement interessées de poser des questions et de démarrer une discussion.
