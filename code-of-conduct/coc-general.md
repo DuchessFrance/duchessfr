@@ -6,7 +6,7 @@ Ce code s'applique à tous les évènements en personne ou virtuels organisés p
 
 La communauté Duchess France est une association destinée à valoriser et promouvoir les développeuses et les femmes avec des profils technique. Cette communauté se veut être un lieu sécurisé de discussions et de et réseautage pour les femmes, et par extension pour toutes les personnes sous représentées dans l'informatique. Notre communauté se veut une expérience sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre ethnie, votre religion, votre système d'exploitation, votre language de programmation ou votre style d'indentation de code.
 
-C'est une communauté composée des femmes et leurs alliés, dont la mission est définie plus en détail sur https://www.duchess-france.org/bienvenue/. Globalement nous comptons sur la bonne volonté de tout le monde pour que les évènements et discussions soient agréables pour toutes.
+C'est une communauté composée des femmes et leurs alliés, dont la mission est définie plus en détail sur [le site Duchess France](https://www.duchess-france.org/bienvenue/). Globalement nous comptons sur la bonne volonté de tout le monde pour que les évènements et discussions soient agréables pour toutes.
 
 ## Sanctions possible
 
