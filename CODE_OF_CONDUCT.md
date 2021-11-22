@@ -12,7 +12,7 @@ quel que soit votre sexe, votre identité sexuelle,
 votre âge, votre orientation sexuelle,
 votre handicap, votre apparence physique, votre poids,
 votre ethnie, votre religion, votre système d'exploitation,
-votre language de programmation ou votre style d'indentation de code.
+votre langage de programmation ou votre style d'indentation de code.
 
 C'est une communauté composée des femmes et leurs alliés.
 Globalement, nous comptons sur la bonne volonté de tout le monde pour que les événements et discussions soient agréables pour toutes les personnes.
@@ -22,7 +22,7 @@ Se comporter en allié·e c’est de l’amélioration continue de soi-même,
 merci de pratiquer ces principes:
 - Écouter et apprendre, y compris quand on se sent inconfortable ou dérouté·e.
 - Ne pas nier le ressenti de l’autre, par exemple en le prenant pour soi
-- S'éduquer soi même, au lieu de demander aux autres de nous éduquer
+- S'éduquer soi-même, au lieu de demander aux autres de nous éduquer
 - Ne pas prendre crédit pour les idées des autres, toujours citer la source,  la référence, l’autrice ou l’auteur
 - Se comporter en allié·e, même quand personne ne regarde
 - Admettre ses privilèges
