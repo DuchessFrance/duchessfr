@@ -8,7 +8,7 @@ La communauté Duchess France est une association destinée à valoriser et prom
 Cette communauté se veut être un lieu de confiance,
 de discussions et de réseautage pour les femmes.
 Notre communauté se veut une expérience sans harcèlement,
-quel que soit votre sexe, votre identité sexuelle,
+quel que soit votre genre, votre identité sexuelle,
 votre âge, votre orientation sexuelle,
 votre handicap, votre apparence physique, votre poids,
 votre ethnie, votre religion, votre système d'exploitation,
