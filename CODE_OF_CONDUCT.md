@@ -39,6 +39,7 @@ En direct:
 - Pour les évènements en personnes, les organisatrices sur place
 - Angélique sur [twitter](https://twitter.com/aHenryJard) ou Slack #moderation
 - Florence sur [LinkedIn](https://www.linkedin.com/in/florencechabanois/)
+- Zineb sur [twitter](https://twitter.com/ZinebBendhiba)
 
 ## Sanctions possibles
 
