@@ -65,7 +65,7 @@ Particulièrement pour les offres d’emploi sur les channel **#emploi**, pensez
 - indiquer la possibilité de **télétravail**
 - utiliser une formulation **au minimum neutre en genre**, ou inclusive (développeur ou développeuse) ou encore entièrement au féminin.
 
-En cas de doutes, vous pouvez toujours poser vos questions sur le **cannal #moderation**
+En cas de doutes, vous pouvez toujours poser vos questions sur le **canal #moderation**
 
 ## Références
 
