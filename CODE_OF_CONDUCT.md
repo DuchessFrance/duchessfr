@@ -46,7 +46,7 @@ En direct:
 
 Si vous ne vous sentez pas en sécurité d’une quelconque façon, vous pouvez contacter une personne de la Core Team Duchess. 
 
-Toute personne qui nuit au bon fonctionnement de la communauté s'expose à des sanctions allant du rappel à l'ordre jusqu'à l'exclusion des évènements de la communauté.
+Toute personne qui nuit au bon fonctionnement de la communauté s'expose à des sanctions allant du rappel à l'ordre jusqu'à l'exclusion du Slack des évènements de la communauté.
 Les sanctions sont à la discrétion de la Core Team Duchess.
 
 ## Consignes spécifiques au Slack privé Duchess
