@@ -1,13 +1,15 @@
 # Code de conduite Duchess
 
-Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](https://www.duchess-france.org/bienvenue/).
+Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](https://www.duchess-france.org/bienvenue/). Ce code de conduite s'applique à toutes les parties prenantes, que ce soit une entreprise ou une conférence qui héberge un évènement Duchess, un sponsor, des participants ou toute autre personne impliquée.
 
 ## Les grandes lignes
 
-La communauté Duchess France est une association destinée à valoriser, promouvoir les développeuses et les personnes s'identifiant comme femme avec des profils techniques.
+La communauté Duchess France est une association destinée à valoriser, promouvoir les développeuses et plus largement les femmes dans la tech.
 La communauté à aussi vocation à être un lieu d'incubation et de partage d'expérience d'oratrices avec pour objectif d'augmenter progressivement la présence d'oratrices dans les conférences de l'IT. 
-Cette communauté se veut être un lieu de confiance,
-de discussions libérées et de réseautage pour les personnes s'identifiant comme femme.
+Cette communauté se veut être un lieu de confiance, de discussions libérées et de réseautage réservés aux femmes et personnes non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
+
+Certains média ou évènements sont en mixité choisie, à la discrétion de la Core Team.
+
 Notre communauté se veut une expérience sans harcèlement,
 quel que soit votre genre, votre identité sexuelle,
 votre âge, votre orientation sexuelle,
@@ -15,7 +17,7 @@ votre handicap, votre apparence physique, votre poids,
 votre ethnie, votre religion, votre système d'exploitation,
 votre langage de programmation ou votre style d'indentation de code.
 
-Les évènements public mixtes (exemple: meetup) sont soumis à ce code de conduite, en cas de doute sur un comportement intentionnel ou non, la priorité sera donnée au bien être des membres de la communauté.
+Les évènements public mixtes (par exemple: meetup) sont soumis à ce code de conduite, en cas de doute sur un comportement intentionnel ou non, la priorité sera donnée au bien être des membres de la communauté.
 Globalement, nous comptons sur la bonne volonté de tout le monde pour que les événements et discussions soient agréables pour toutes les personnes.
 
 Toutes les personnes peuvent être selon les situations un ou une alliée pour des personnes plus marginalisées.
@@ -46,16 +48,18 @@ En direct:
 
 Si vous ne vous sentez pas en sécurité d’une quelconque façon, vous pouvez contacter une personne de la Core Team Duchess. 
 
-Toute personne qui nuit au bon fonctionnement de la communauté s'expose à des sanctions allant du rappel à l'ordre jusqu'à l'exclusion du Slack des évènements de la communauté.
+Toute personne qui nuit au bon fonctionnement de la communauté s'expose à des sanctions allant du rappel à l'ordre jusqu'à l'exclusion du Slack et des évènements de la communauté.
 Les sanctions sont à la discrétion de la Core Team Duchess.
 
 ## Consignes spécifiques au Slack privé Duchess
 
-### Invitation et accès au Slack privé
+### Invitation et accès au Slack privé en mixité choisie
 
-Le Slack est privé et reservé aux personnes s'identifiant comme femme et ayant un poste technique dans l'industrie informatique. L'invitation se fait soit par cooptation d'une membre, soit en contactant la Core Team avec l'email Duchess. Nous demandons aux membres qui cooptent de vérifier que la personne valide bien les 2 critères d'entrée.
+Le Slack est **privé** est en mixité choisie, réservé au personnes ayant ces deux critères:
+- femmes ou personne non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
+- travaillant dans la tech, ou bien en cours de formation ou reconversion vers un métier de la tech.
 
-En cas de doute, vous pouvez demander sur le **canal #ask-the-core-team**
+L'invitation se fait en contactant la Core Team avec l'email Duchess 'duchessfr [at] gmail.com'. De préférence merci de donner un peu de contexte comme préciser votre poste actuel, et si possible un lien vers un CV ou blog (par exemple LinkedIn).
 
 ### Aidez nous à garder cet espace safe, en tout temps et pour toutes
 
@@ -66,6 +70,8 @@ Afin de rester une communauté agréable voici quelques préconisations:
 Lorsque vous répondez à une personne ou une question, utilisez les thread (fil de discussions) afin de garder le canal dédié lisible.
 
 Dans la mesure du possible, restez dans le sujet du premier post du thread, vous pouvez toujours initier une discussion sur un nouveau sujet dans un autre thread.
+
+Si une autre membre vous fait remarquer un commentaire déplacé, il est temps de s'arrêter, prendre un peu d'air et s'excuser.
 
 Pensez à consulter les entêtes de canal ou descriptions, il peut y avoir des consignes spécifiques.
 
