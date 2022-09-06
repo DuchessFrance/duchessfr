@@ -1,12 +1,12 @@
 # Code de conduite Duchess
 
-Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](https://www.duchess-france.org/bienvenue/). Ce code de conduite s'applique à toutes les parties prenantes, que ce soit une entreprise ou une conférence qui héberge un évènement Duchess, un sponsor, des participants ou toute autre personne impliquée.
+Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](https://www.duchess-france.org/bienvenue/). Ce code de conduite s'applique à toutes les parties prenantes, que ce soit une entreprise ou une conférence qui héberge un évènement Duchess, un sponsor, des participantes et participants ou toute autre personne impliquée.
 
 ## Les grandes lignes
 
 La communauté Duchess France est une association destinée à valoriser, promouvoir les développeuses et plus largement les femmes dans la tech.
-La communauté à aussi vocation à être un lieu d'incubation et de partage d'expérience d'oratrices avec pour objectif d'augmenter progressivement la présence d'oratrices dans les conférences de l'IT. 
-Cette communauté se veut être un lieu de confiance, de discussions libérées et de réseautage réservés aux femmes et personnes non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
+La communauté a aussi vocation à être un lieu d'incubation et de partage d'expérience d'oratrices avec pour objectif d'augmenter progressivement la présence d'oratrices dans les conférences de l'IT. 
+Cette communauté se veut être un lieu de confiance, de discussions libérées et de réseautage réservé aux femmes et personnes non binaires. Sachant que les femmes cisgenres et les femmes transgenres sont des femmes, et que la transphobie n'est pas tolérée.
 
 Certains média ou évènements sont en mixité choisie, à la discrétion de la Core Team.
 
@@ -55,11 +55,11 @@ Les sanctions sont à la discrétion de la Core Team Duchess.
 
 ### Invitation et accès au Slack privé en mixité choisie
 
-Le Slack est **privé** est en mixité choisie, réservé au personnes ayant ces deux critères:
+Le Slack **privé** est en mixité choisie, réservé au personnes réunissant ces deux critères:
 - femmes ou personne non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
 - travaillant dans la tech, ou bien en cours de formation ou reconversion vers un métier de la tech.
 
-L'invitation se fait en contactant la Core Team avec l'email Duchess 'duchessfr [at] gmail.com'. De préférence merci de donner un peu de contexte comme préciser votre poste actuel, et si possible un lien vers un CV ou blog (par exemple LinkedIn).
+L'invitation se fait en contactant la Core Team avec l'email Duchess 'duchessfr [at] gmail.com' ou en demandant sur le channel `#ask-the-core-team `. Il est préférable de donner un peu de contexte comme préciser votre poste actuel, et si possible un lien vers un CV ou blog (par exemple LinkedIn).
 
 ### Aidez nous à garder cet espace safe, en tout temps et pour toutes
 
