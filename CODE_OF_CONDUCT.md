@@ -1,6 +1,6 @@
 # Code de conduite Duchess
 
-Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](https://www.duchess-france.org/bienvenue/). Ce code de conduite s'applique à toutes les parties prenantes, que ce soit une entreprise ou une conférence qui héberge un évènement Duchess, un sponsor, des participantes et participants ou toute autre personne impliquée.
+Ce code s'applique à tous les événements en personne ou virtuels organisés par l'association [Duchess France](http://www.duchess-france.fr/). Ce code de conduite s'applique à toutes les parties prenantes, que ce soit une entreprise ou une conférence qui héberge un évènement Duchess, un sponsor, des participantes et participants ou toute autre personne impliquée.
 
 ## Les grandes lignes
 
@@ -33,20 +33,20 @@ merci de pratiquer ces principes:
 ## Qui contacter ?
 
 Les membres de la Core Team Duchess sont à votre disposition,
-la liste est mise à jour sur [La page Team Duchess](https://www.duchess-france.org/la-team-duchess-france/).
+la liste est mise à jour sur [La page Team Duchess](http://www.duchess-france.fr/core-team/).
 
 Certaines membres de la Core Team affichent un bandeau sur leur photo dans Slack pour que vous puissiez les reconnaître,
 et sont présentes sur Slack, canal **#ask-the-core-team**.
 
 En direct:
 - Pour les évènements en personnes, les organisatrices sur place
-- Angélique sur [twitter](https://twitter.com/aHenryJard) ou Slack
+- Angélique sur Slack
 - Florence sur [LinkedIn](https://www.linkedin.com/in/florencechabanois/)
 - Zineb sur [twitter](https://twitter.com/ZinebBendhiba)
 
 ## Sanctions possibles
 
-Si vous ne vous sentez pas en sécurité d’une quelconque façon, vous pouvez contacter une personne de la Core Team Duchess. 
+Si vous ne vous sentez pas en sécurité d’une quelconque façon, vous pouvez contacter une personne de la [Core Team Duchess](http://www.duchess-france.fr/core-team/). 
 
 Toute personne qui nuit au bon fonctionnement de la communauté s'expose à des sanctions allant du rappel à l'ordre jusqu'à l'exclusion du Slack et des évènements de la communauté.
 Les sanctions sont à la discrétion de la Core Team Duchess.
@@ -59,7 +59,7 @@ Le Slack **privé** est en mixité choisie, réservé au personnes réunissant c
 - femmes ou personne non binaires. Sachant que les femmes cisgenre et les femmes transgenre sont des femmes, et que la transphobie n'est pas tolérée.
 - travaillant dans la tech, ou bien en cours de formation ou reconversion vers un métier de la tech.
 
-L'invitation se fait en contactant la Core Team avec l'email Duchess 'duchessfr [at] gmail.com' ou en demandant sur le channel `#ask-the-core-team `. Il est préférable de donner un peu de contexte comme préciser votre poste actuel, et si possible un lien vers un CV ou blog (par exemple LinkedIn).
+L'invitation se fait en remplissant [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSfOe6dsvfKAxqA_cEGMsCrFpUST00pHU6YJU4utdovNSdOMQg/viewform)
 
 ### Aidez nous à garder cet espace safe, en tout temps et pour toutes
 
